@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Esek
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDYxc2QwaTFlaWt3NnB1c2pxZ2hwczQxcm5pb3pjbmsyd3FrcWZ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nHaF5cJanabVk86MLJ/giphy.gif" width="400" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI2ZmFsbjIwdXFwdGFnbWxrd3hkMDJ1bmhyaGRyNHVkYnB4MGs0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OazoCyXHeGyDm/giphy.gif" width="400" />
 </div>
 
 ---
